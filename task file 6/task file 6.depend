@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1793899646 source:c:\users\elmnshawy\desktop\file\task file 6\main.cpp
+	<iostream>
+	<fstream>
+	<cstdio>
+
